@@ -18,10 +18,10 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-KR"
-title                    : "이정원은?"
+locale                   : "en-US"
+title                    : "Who is raccoongury"
 title_separator          : "-"
-name                     : "이정원"
+name                     : "JEONG-WON YI"
 description              : "An amazing website."
 url                      : "https://raccoongury.github.io" # the base hostname & protocol for your site e.g. "https://raccoongury.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
