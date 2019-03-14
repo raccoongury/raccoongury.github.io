@@ -19,9 +19,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "이정원은?"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "이정원"
 description              : "An amazing website."
 url                      : "https://raccoongury.github.io" # the base hostname & protocol for your site e.g. "https://raccoongury.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
